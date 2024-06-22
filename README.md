@@ -216,8 +216,8 @@ WHERE rn<=3;
 
 
 ## 5. SHARE
-
-
+![Screenshot (132)](https://github.com/iankitnegi/SQL_Pizza_Sales_Project/assets/132642567/e4057bd4-66fb-4e56-b02f-f1fedecc9c70)
+![Screenshot (133)](https://github.com/iankitnegi/SQL_Pizza_Sales_Project/assets/132642567/8dded99a-74f7-4c3f-8ab5-5e2d5ccc4f16)
 
 
 
@@ -231,4 +231,5 @@ WHERE rn<=3;
 - Sales can be increased with a campaign on Sundays and Mondays, when pizza sales are lowest.
 - Supreme and Veggie categories are the pizza categories with the worst sales, and XLarge and XXLarge sizes are the least sold pizza sizes. These categories and sizes can be evaluated in campaigns.  
 
-Thank you for reading and evaluating my repo :)
+Thank you for reading and evaluating my repo :)    
+[LinkedIn](https://www.linkedin.com/posts/iankitnegi_sales-report-activity-7198593703102353408-GrAW?utm_source=share&utm_medium=member_desktop)    
